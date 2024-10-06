@@ -17,7 +17,7 @@
 
 </samp>
 
-<img height=200 align="center" src="https://github-readme-stats-guri3.vercel.app/api?username=guri3&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
+<img height=200 align="center" src="https://github-readme-stats-guri3.vercel.app/api?username=guri3&show_icons=true&custom_title=guri3's%20GitHub%20Stats&theme=github_dark_dimmed&rank_icon=github" />
 <img height=200 align="center" src="https://github-readme-stats-guri3.vercel.app/api/top-langs/?username=guri3&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 
 </div>
