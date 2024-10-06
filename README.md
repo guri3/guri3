@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,crystal,js,ts,react,nextjs,html,flutter,mysql,aws,phpstorm,vscode,vim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,crystal,js,ts,react,nextjs,html,flutter,mysql,aws,phpstorm,vscode,vim&perline=8" />
   </a>
 </div>
 
