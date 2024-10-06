@@ -1,20 +1,39 @@
-### Hi there 👋
 
-<!--
-**guri3/guri3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## guri3's profile 🐟
 
-[![](https://raw.githubusercontent.com/guri3/guri3/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/guri3/guri3/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/guri3/guri3/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</samp>
+
+</div>
+
+<div align="center">
+
+<samp>
+
+### GitHub Stats
+
+</samp>
+
+</div>
+
+[![guri3's GitHub stats](https://github-readme-stats-guri3.vercel.app/api?username=guri3&show_icons=true&theme=github_dark_dimmed&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![guri3's Top Langs](https://github-readme-stats-guri3.vercel.app/api/top-langs/?username=guri3&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+
+<samp>
+
+### Technology
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,crystal,js,ts,react,nextjs,html,flutter,mysql,aws,phpstorm,vscode,vim&perline=8" />
+  </a>
+</div>
+
+</samp>
+
+</div>
