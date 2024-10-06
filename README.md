@@ -17,10 +17,12 @@
 
 </samp>
 
-
-[![guri3's GitHub stats](https://github-readme-stats-guri3.vercel.app/api?username=guri3&show_icons=true&theme=github_dark_dimmed&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![guri3's Top Langs](https://github-readme-stats-guri3.vercel.app/api/top-langs/?username=guri3&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-guri3.vercel.app/api?username=guri3&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-guri3.vercel.app/api/top-langs/?username=guri3&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+</a>
 
 </div>
 
